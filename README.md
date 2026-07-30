@@ -33,3 +33,5 @@ pnpm tauri build
 ## V1 边界
 
 不包含删除、云同步、后台定时扫描或生成式 AI。重复/相似文件只显示给用户决策，绝不自动处理。
+
+<img width="1192" height="842" alt="image" src="https://github.com/user-attachments/assets/b069da63-64fe-4a8f-8a82-c47b94e0baba" />
