@@ -1,6 +1,9 @@
 # CleanDesk AI V1
 
-Windows 优先、完全本地运行的数字空间管理器。它只扫描用户选择的目录，给出可解释的整理建议；移动前必须确认，且每次移动均可撤销。
+An intelligent desktop organizer that keeps your workspace clean automatically.  
+一个会理解你的电脑使用习惯、自动保持桌面干净的 AI 桌面管家。
+
+当前 V1 为 Windows 优先、完全本地运行的数字空间管理器。它只扫描用户选择的目录，给出可解释的整理建议；移动前必须确认，且每次移动均可撤销。
 
 ## 已实现能力
 
