@@ -26,4 +26,3 @@ zip = "2"
 pdf-extract = "0.7"
 image = "0.25"
 uuid = { version = "1", features = ["v4"] }
-
