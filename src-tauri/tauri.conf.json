@@ -1,0 +1,9 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "CleanDesk",
+  "version": "0.1.0",
+  "identifier": "com.cleandesk.app",
+  "build": { "frontendDist": "../dist", "devUrl": "http://localhost:1421", "beforeDevCommand": "npm run dev", "beforeBuildCommand": "npm run build" },
+  "app": { "windows": [{ "title": "CleanDesk · 数字空间管理器", "width": 1200, "height": 780, "minWidth": 900, "minHeight": 640 }], "security": { "csp": "default-src 'self'; img-src 'self' asset: http://asset.localhost" } },
+  "bundle": { "active": true, "targets": "all", "icon": ["icons/icon.ico"] }
+}

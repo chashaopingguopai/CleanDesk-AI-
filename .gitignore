@@ -1,0 +1,13 @@
+# JavaScript dependencies and generated frontend output
+node_modules/
+.pnpm-store/
+dist/
+
+# Tauri / Rust build artifacts
+src-tauri/target/
+
+# Local application data and editor files
+*.db
+.vscode/
+.idea/
+*.log
